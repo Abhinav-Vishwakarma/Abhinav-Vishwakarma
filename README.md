@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhinav-vishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-vishwakarma" />
+  <a href="https://ghcommits.com/u/Abhinav-Vishwakarma"><img src="https://ghcommits.com/api/badge/Abhinav-Vishwakarma.svg" alt="GitHub Commits Badge" /></a>
 </p>
 
 <p align="center">
@@ -10,6 +11,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=abhinav-vishwakarma&theme=radical&no-frame=true&row=1&column=6" alt="abhinav-vishwakarma" />
   </a>
 </p>
+
 
 ---
 
